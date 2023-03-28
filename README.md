@@ -2,7 +2,7 @@
 
 👩‍🎓↔🤖➡📚♾️
 
-*Send a ChatCPT chat to Figshare and get a DOI with a Chrome Extension*
+*Send a ChatGPT chat to Figshare and get a DOI with a Chrome Extension*
 
 Academics may wish to capture their interactions with ChatGPT, not just for posterity but as a citable artifact. DOIit is a Chrome Extension that allows a user to save chat data to Figshare and then create a unique Digital Object Identifier (DOI) for that interaction. This extension uses the Figshare API, and therefore, requires an API key from Figshare to function properly.
 
