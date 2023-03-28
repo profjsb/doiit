@@ -4,6 +4,13 @@
 
 Academics may wish to capture their interactions with ChatGPT, not just for posterity but as a citable artifact. DOIit is a Chrome Extension that allows a user to save chat data to Figshare and then create a unique Digital Object Identifier (DOI) for that interaction. This extension uses the Figshare API, and therefore, requires an API key from Figshare to function properly.
 
+This README was written with the help of ChatGPT. See <a href="https://doi.org/10.6084/m9.figshare.22350943.v1" alt="DOI README">
+<img src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.22350943.v1-orange"></a>
+
+The code for this extension was partially written by ChatGPT. See <a href="https://doi.org/10.6084/m9.figshare.22350715.v1" alt="DOI README">
+<img src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.22350715.v1-orange"></a>
+
+
 ## Installation
 
 To install DOIit, please follow these steps:
@@ -36,11 +43,6 @@ Once you have installed DOIit and entered your Figshare API key, you can use it 
 
 DOIit was developed by Josh Bloom and is licensed under the BSD-3. If you have any questions or issues, please open up a GitHub Issue or PR.
 
-This README was written with the help of ChatGPT. See <a href="https://doi.org/10.6084/m9.figshare.22350943.v1" alt="DOI README">
-<img src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.22350943.v1-orange"></a>
-
-The code for this extension was partially written by ChatGPT. See <a href="https://doi.org/10.6084/m9.figshare.22350715.v1" alt="DOI README">
-<img src="https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.22350715.v1-orange"></a>
 
 
  
